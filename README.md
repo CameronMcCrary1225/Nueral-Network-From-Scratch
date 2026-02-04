@@ -14,3 +14,5 @@ Training time: 25.93 seconds
 The project features custom memory allocation, and rng number generation, and a efficent implementation of a nueral net.
 The implementation is inspired by magicalbat videos on youtube.
 The theory for the implementation was provided to me by 3blue1brown on youtube.
+
+I completed this is visual studio and was unable to get the proper files to push so I uploaded the source files to github.
